@@ -10,7 +10,7 @@ Experiments are done in PyTorch. If you find this repository helpful, please cit
 bib
 ```
 MCRM data flow diagram:
-
+![MCRM Data flow](MCRM.bmp?raw=true "Title")
 
 
 
