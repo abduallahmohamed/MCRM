@@ -5,17 +5,12 @@ This repository contains the experiments done in the work [] by Abduallah A. Moh
 
 MCRM is a biologically inspired RNN architecture that has a compact memory pattern. The memory pattern combines both long and short-term behaviors.
 
-Experiments are done in PyTorch. If you find this repository helpful, please cite our work:
+Experiments are done in PyTorch (0.4.1) using Python 3.6. 
 ```
 bib
 ```
-MCRM data flow diagram:
+#MCRM data flow diagram:
 ![MCRM Data flow](MCRM.bmp?raw=true "Title")
-
-
-
-
-
 
 ## How to run the experiments 
 There's a total of 5 experiments in this repo. 
