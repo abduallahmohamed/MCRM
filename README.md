@@ -14,7 +14,7 @@ bib
 ## Supplied implementation 
 - **class MCRMCell:** which is MCRM cell . 
 - **class MCRM:** which is a generic class to utilizie multiple MCRM cells. It has the same Pytorch RNN modules signatures.
-both classes are at ''' /MCRM/mcrm.py '''
+both classes are available [here](/MCRM/mcrm.py)
 ## How to run the experiments 
 There's a total of 5 experiments in this repo. 
 
