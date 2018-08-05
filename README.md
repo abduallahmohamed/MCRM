@@ -9,7 +9,7 @@ Experiments are done in PyTorch (0.4.1) using Python 3.6.
 ```
 bib
 ```
-# MCRM data flow diagram:
+## MCRM data flow diagram:
 ![MCRM Data flow](MCRM.bmp?raw=true "Title")
 
 ## How to run the experiments 
