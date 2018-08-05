@@ -25,4 +25,4 @@ There's a total of 5 experiments in this repo.
 - Char PTB test: python ./MCRM/char_ptb/char_ptb.py --model MCRM
 - Word PTB test: python ./MCRM/word_ptb/word_ptb.py --model MCRM
 
-Our benchmark settings are drawn from [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271)
+Our benchmark settings are drawn from [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271) [repo](https://github.com/locuslab/TCN)
