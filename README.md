@@ -1,5 +1,5 @@
 # MCRM: Mother Compact Recurrent Memory 
-## A Biologically Inspired Recurrent Neural Network Architecture
+# A Biologically Inspired Recurrent Neural Network Architecture
 
 This repository contains the experiments done in the work [] by Abduallah A. Mohamed and Christian Claudel. 
 
