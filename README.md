@@ -1,7 +1,8 @@
 # MCRM: Mother Compact Recurrent Memory 
 ## A Biologically Inspired Recurrent Neural Network Architecture
 
-This repository contains the experiments done in the [MCRM](https://arxiv.org/pdf/1808.02016.pdf) work by Abduallah A. Mohamed and Christian Claudel. 
+This repository contains the experiments in [MCRM: Mother Compact Recurrent Memory
+A Biologically Inspired Recurrent Neural Network Architecture](https://arxiv.org/pdf/1808.02016.pdf) work by Abduallah Mohamed and Christian Claudel. 
 
 MCRM is a biologically inspired RNN architecture that has a compact memory pattern. The memory pattern combines both long and short-term behaviors.
 
