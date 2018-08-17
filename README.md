@@ -6,18 +6,6 @@ MCRM is a nested LSTM-GRU RNN architecture that has a compact memory pattern. Th
 
 ```
 
-@ARTICLE{2018arXiv180802016M,
-   author = {{Mohamed}, A. and {Claudel}, C.},
-    title = "{MCRM: Mother Compact Recurrent Memory A Biologically Inspired Recurrent Neural Network Architecture}",
-  journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
-   eprint = {1808.02016},
- keywords = {Computer Science - Neural and Evolutionary Computing, Computer Science - Machine Learning, Statistics - Machine Learning},
-     year = 2018,
-    month = aug,
-   adsurl = {http://adsabs.harvard.edu/abs/2018arXiv180802016M},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
 
 ```
 ## MCRM data flow diagram:
