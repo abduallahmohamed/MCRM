@@ -4,7 +4,7 @@ This repository contains the experiments in [MCRM: Mother Compact Recurrent Memo
 
 MCRM is a nested LSTM-GRU RNN architecture that has a compact memory pattern. The memory pattern combines both long and short-term behaviors.
 <p align="center">
-![MCRM Illutstration](MCRMINNUTSHEEL.png?raw=true "Title")
+    <img src="MCRMINNUTSHEEL.png" />
 </p>
 
 ```
