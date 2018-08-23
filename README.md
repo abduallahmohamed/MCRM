@@ -20,8 +20,6 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/2018arXiv180802016M},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-
-
 ```
 ## MCRM data flow diagram:
 ![MCRM Data flow](MCRM.bmp?raw=true "Title")
